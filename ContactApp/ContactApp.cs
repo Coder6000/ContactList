@@ -92,6 +92,7 @@ namespace ContactList
                 }
             }
 
+            // TODO: Add logic to remove data of one specific contact
             void RemoveContact()
             {
                 
